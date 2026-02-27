@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "chroma:load"
+        "chroma:charged_music_discs/load"
     ]
 }
