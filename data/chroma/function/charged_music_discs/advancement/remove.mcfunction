@@ -1,2 +1,0 @@
-advancement revoke @s only chroma:technical/charged_music_disc/remove
-function chroma:charged_music_disc/cancel_request

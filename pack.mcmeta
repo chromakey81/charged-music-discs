@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Adds charged music discs to start thunderstorms",
+        "description": "Adds charged music discs so you can start thunderstorms",
         "min_format": 94,
         "max_format": 94
     }

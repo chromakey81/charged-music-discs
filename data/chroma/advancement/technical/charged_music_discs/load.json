@@ -8,7 +8,7 @@
               "condition": "minecraft:block_state_property",
               "block": "minecraft:jukebox",
               "properties": {
-                "has_record": "false"
+                "has_record": "true"
               }
             },
             {
@@ -28,6 +28,6 @@
       }
     },
     "rewards": {
-      "function": "chroma:charged_music_disc/remove"
+      "function": "chroma:charged_music_discs/advancement/load"
     }
   }
